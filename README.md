@@ -2,10 +2,10 @@
 MySQL Database Kodepos Indonesia.
 
 <h3>Table:</h3>
-- tbl_propinsi
+- tbl_propinsi (34)
   - id
   - nama
-- tbl_kodepos
+- tbl_kodepos (86406)
   - id
   - id_propinsi
   - kota_kab
